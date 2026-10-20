@@ -23,6 +23,7 @@ Prowadzący: dr Piotr Czarnik, mgr Bartosz Grygielski
 
 - [Zasady zaliczenia](Zasady%20zaliczenia%20laboratoria.md)
 - [Lista 1](Lista%201)
+- [Lista 2](Lista%202)
 
 ## Lista wykładów
 
